@@ -1,0 +1,10 @@
+﻿{
+  "Name": "smapi_quickstart",
+  "Author": "YOUR NAME HERE",
+  "Version": "1.0.0",
+  "Description": "QUICKSTART FOR SMAPI. SMAPI 快速入门。",
+  "UniqueID": "YOUR_NAME_HERE.SMAPI_QUICKSTART",
+  "EntryDll": "smapi_quickstart.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
