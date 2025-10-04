@@ -1,7 +1,38 @@
-bin/
-obj/
-/packages/
+
+# build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+
+#user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Visual Studio cache/options
+.config/
+.vs/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+#/packages/
 riderModule.iml
 /_ReSharper.Caches/
+.idea/
 
-.idea
+# NuGet packages
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+# macOS
+.DS_Store
